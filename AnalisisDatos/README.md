@@ -6,6 +6,6 @@ En este apartado del repositorio se muestra cómo se realiza el análisis de los
 
 ![POWER BI](../images/PowerBI-Logo.png)
 
-- [IR A BACKEND](../Backend/README.MD)
+- [IR A BACKEND](../Backend/README.md)
 - [IR AL FRONTEND](../Frontend/README.md)
 - [REGREASAR A REPOSITORIO PRINCIPAL](../README.md)

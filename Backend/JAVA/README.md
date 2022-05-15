@@ -10,7 +10,7 @@ Una vez generado el archivo .WAR del proyecto, es necesario usar el comando dock
 
 ![Captura de pantalla 2022-05-15 173411](https://user-images.githubusercontent.com/70116251/168497025-03794cec-f26c-46ae-bf88-da35199092ac.png)
 
-Al finalizar se requiere ingresar a : http://localhost:8080/DroneForm-1.0-SNAPSHOT/ y se peude ver el Formulario funcionando. Como se muestra a continuación: 
+Al finalizar se requiere ingresar a : http://localhost:8080/DroneForm-1.0-SNAPSHOT/ y se puede ver el Formulario funcionando. Como se muestra a continuación: 
 
 ![JavaRun](https://user-images.githubusercontent.com/70116251/168497344-976417f0-d0b5-459f-ad52-1650c36e4bbf.gif)
 

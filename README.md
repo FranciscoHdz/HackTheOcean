@@ -87,19 +87,17 @@ Para este proyecto se estoma que se puede realizar un despliegue en tres fases l
 
 
 ## Tecnologías utilizadas para la fase 1
-- ANGULAR
-- POWER BI
-- COSMOS DB 
-- AZURE FUNCTIONS 
-- JAVA
+- [ANGULAR](./Frontend/README.md)
+- [POWER BI](./AnalisisDatos/README.md)
+- [COSMOS DB](./Backend/README.MD)
+- [AZURE FUNCTIONS](./Backend/README.MD)
+- [JAVA](./Backend/README.MD)
 
 ### Credito por fotografía
     Primera -> Foto de Marian Sol Miranda en Pexels
     Segunda -> Foto de Yogendra Singh en Pexels
     Tercera -> Foto de Element5 Digital en Pexels
     Cuarta -> Porta microsofters
-
-
 
 
 ### INTEGRANTES DEL EQUIPO Y DESARROLLADORES DE LA IDEA 
@@ -109,6 +107,4 @@ Para este proyecto se estoma que se puede realizar un despliegue en tres fases l
 |Alberto García Martínez | [begama21](https://github.com/begama21)|
 |Moisés Sánchez Soto| [moy314](https://github.com/moy314) |
 |Hernaández Rodriguez Francisco Daniel | [FranciscoHdz](https://github.com/FranciscoHdz) |
-
-
 

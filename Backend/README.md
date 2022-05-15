@@ -6,7 +6,7 @@ En este apartado del repositorio se muestra cómo se realiza la implementación 
 
 ## Detalles de la implementación
 - [Azure Function (JavaScript)](./AzureFunction/README.md)
-- [JAVA](./JAVA/)
+- [JAVA](./JAVA/README.md)
 
 ![Java Y AZURE](../images/AzureJava.png) 
 

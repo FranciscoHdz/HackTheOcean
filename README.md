@@ -89,9 +89,9 @@ Para este proyecto se estoma que se puede realizar un despliegue en tres fases l
 ## Tecnologías utilizadas para la fase 1
 - [ANGULAR](./Frontend/README.md)
 - [POWER BI](./AnalisisDatos/README.md)
-- [COSMOS DB](./Backend/README.MD)
-- [AZURE FUNCTIONS](./Backend/README.MD)
-- [JAVA](./Backend/README.MD)
+- [COSMOS DB](./Backend/README.md)
+- [AZURE FUNCTIONS](./Backend/README.md)
+- [JAVA](./Backend/README.md)
 
 ### Credito por fotografía
     Primera -> Foto de Marian Sol Miranda en Pexels

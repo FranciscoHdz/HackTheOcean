@@ -5,8 +5,8 @@ En este apartado del repositorio se muestra cómo se realiza la implementación 
 
 
 ## Detalles de la implementación
-- Azure Function (JavaScript)
-- JAVA
+- [Azure Function (JavaScript)](./AzureFunction/README.md)
+- [JAVA](./JAVA/)
 
 ![Java Y AZURE](../images/AzureJava.png) 
 

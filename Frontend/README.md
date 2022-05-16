@@ -7,7 +7,7 @@ En este apartado del repositorio se muestra cómo se realiza la implementación 
 
 
 [link al Repositorio de frontend](https://github.com/moy314/hackTheOcean)
-
+despliegue: https://searecolectron.azurewebsites.net/#/general
 
 
 
